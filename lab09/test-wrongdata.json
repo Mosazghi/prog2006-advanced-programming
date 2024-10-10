@@ -1,0 +1,72 @@
+[
+    {
+      "uid": 1,
+      "greenstoneWeight": 54,
+      "waterGuardian": "Aqua Avatar",
+      "vulcanicCave": 560,
+      "skyRiddle": "A riddle ends with a dot."
+    },
+    {
+      "uid": 11,
+      "greenstoneWeight": 123,
+      "waterGuardian": "serpent",
+      "vulcanicCave": 730,
+      "skyRiddle": "a riddle without a dot"
+    },
+    {
+      "uid": 3,
+      "greenstoneWeight": 72,
+      "waterGuardian": "Nereid",
+      "vulcanicCave": "650Celcius",
+      "skyRiddle": "A Riddle With Even Vowels."
+    },
+    {
+      "uid": 44,
+      "greenstoneWeight": 67,
+      "waterGuardian": "Mermaid",
+      "vulcanicCave": 800,
+      "skyRiddle": "Sky riddle without vowels"
+    },
+    {
+      "uid": 5,
+      "greenstoneWeight": 88,
+      "waterGuardian": "Kelpie",
+      "vulcanicCave": 580,
+      "skyRiddle": "a riddle ends with a dot"
+    },
+    {
+      "uid": 12,
+      "greenstoneWeight": 50,
+      "waterGuardian": "Fury",
+      "vulcanicCave": 670,
+      "skyRiddle": "A riddle without dot"
+    },
+    {
+      "uid": 7,
+      "greenstoneWeight": 125,
+      "waterGuardian": "Aqua Spirit",
+      "vulcanicCave": 450,
+      "skyRiddle": "Sky Riddle with Odd vowels"
+    },
+    {
+      "uid": 13,
+      "greenstoneWeight": 60,
+      "waterGuardian": "Leviathan",
+      "vulcanicCave": 520,
+      "skyRiddle": "A riddle ends with a dot."
+    },
+    {
+      "uid": 9,
+      "greenstoneWeight": 78,
+      "waterGuardian": "poseidon",
+      "vulcanicCave": 590,
+      "skyRiddle": "A riddle with even vowels."
+    },
+    {
+      "uid": 10,
+      "greenstoneWeight": 98,
+      "waterGuardian": "Aqua Sprite",
+      "vulcanicCave": 690,
+      "skyRiddle": "A riddle ends with dot."
+    }
+  ]

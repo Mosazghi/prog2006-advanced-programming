@@ -1,0 +1,53 @@
+name:                hello-chuck
+version:             0.1.0.0
+github:              "githubuser/hello-chuck"
+license:             BSD3
+author:              "Mariusz"
+maintainer:          "mariusz.nowostawski@ntnu.no"
+copyright:           "2021 Mariusz"
+
+extra-source-files:
+- README.md
+
+# Metadata used when publishing your package
+# synopsis:            Simple demo of using JSON parsing with http-client Get request
+# category:            Web
+
+# To avoid duplicated efforts in documentation and dealing with the
+# complications of embedding Haddock markup inside cabal files, it is
+# common to point users to the README.md file.
+description:         Please see the README on GitHub at <https://github.com/githubuser/hello-chuck#readme>
+
+dependencies:
+- base >= 4.7 && < 5
+- aeson
+- http-types
+- http-conduit
+
+library:
+  source-dirs: src
+
+executables:
+  hello-chuck-exe:
+    main:                Main.hs
+    source-dirs:         app
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - hello-chuck
+    when:
+    - condition: false
+      other-modules: Paths_hello_chuck
+
+tests:
+  hello-chuck-test:
+    main:                Spec.hs
+    source-dirs:         test
+    ghc-options:
+    - -threaded
+    - -rtsopts
+    - -with-rtsopts=-N
+    dependencies:
+    - hello-chuck
