@@ -1,0 +1,7 @@
+*.md
+!README.md
+*.png 
+.vscode/
+.vscode/*
+
+

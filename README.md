@@ -1,36 +1,7 @@
-# prog2006-2024
+# Portfoilo
 
-Advanced Programming 2024
+Welcome to my portfolio for PRORG2006 Advanced Programming 2024. This portfolio contains all the work I have done in this course. That includes every lab and one open ended lab.
 
+Lab 01-06 are in Haskell and Lab 06-15 are in Rust. The open ended lab is Lab 15.
 
-## Lectures
-
-Contain example code and code snippets used in lectures and video lectures.
-Those usually do not require many external libraries or dependencies.
-
-
-## Examples
-
-Contain code examples that are larger chunks of code, projects, that often require additional dependencies.
-
-## Labs
-
-Lab specifications and example code snippets, doctests, or test data files.
-
-
-
-## Getting started with Git
-
-```
-cd SomewhereOnMyDisk/MyProjects
-git clone https://git.gvk.idi.ntnu.no/course/prog2006/prog2006-2024.git
-git branch --set-upstream-to my-unique-name
-     ... edit your files
-     ... create new files
-     ... add and commit your files to remote branch
-git add ...
-git commit -m "Meaningful message"
-     ... push your branch to the server
-git push
-     ... make a pull request to merge your branch with main
-```
+NOTE: For lab 15 specifically, to view the client-server implementation, you can find it [here](https://git.gvk.idi.ntnu.no/course/prog2006/prog2006-2024-workspace/mosazghi/rust/-/tree/lab-15-socket-mode?ref_type=heads).

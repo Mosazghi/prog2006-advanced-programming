@@ -1,0 +1,10 @@
+1: Water guardian name: missing a
+3: Water guardian name: missing a
+5: Water guardian name: missing a, Sky riddle: not capitalized, Sky riddle: missing ., Sky riddle: not even
+7: Greenstone weight: outside the range, Greenstone weight: not even, Water guardian name: missing a, Sky riddle: missing ., Sky riddle: not even
+9: Water guardian name: not capitalized, Water guardian name: missing a, Sky riddle: not even
+10: VALID
+11: Greenstone weight: outside the range, Greenstone weight: not even, Water guardian name: not capitalized, Water guardian name: missing a, Vulcanic cave temperature: outside the range, Sky riddle: not capitalized, Sky riddle: missing .
+12: Water guardian name: missing a, Sky riddle: missing .
+13: VALID
+44: Greenstone weight: not even, Water guardian name: missing a, Vulcanic cave temperature: outside the range, Sky riddle: missing ., Sky riddle: not even
